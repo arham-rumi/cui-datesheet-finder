@@ -30,4 +30,8 @@ Following are the main technologies, used in this project
     pip install jupyterlab
     ```
 
-  
+
+## How to Use
+
+_Step 1_ Give path to DateSheet(Excel FIle)
+
