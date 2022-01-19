@@ -44,3 +44,10 @@ That's all! You will get your datesheet
 
 Contributions are always welcome!
 
+For major changes, please open an issue first to discuss what you would like to change.
+
+  
+## Support
+
+For support, email arhamrumi007@gmail.com
+
