@@ -9,3 +9,10 @@ _This project will remain in progress for better analysis_
 
 Given an excel file, we are required to extract date sheet according to batch and section like (**FA18-BSE-A**)
 
+## Acknowledgements
+
+_WE DON NOT OWN ANY DATA_
+
+_Our Datasets Resource for this Project is **Excel File** given by examination department_
+
+  
