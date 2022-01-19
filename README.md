@@ -3,7 +3,7 @@
 
 In this minor project, I have created a program that can extract date sheet for exams according to the section given.
 
-_This project will remain in progress for better analysis_
+_This project will remain in progress for improvements_
 
 
 ## Problem Statement
