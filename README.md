@@ -38,3 +38,9 @@ _Step 1_: Give path to DateSheet(Excel FIle)
 _Step 2_: Enter your Batch along with section (In case your batch has more than one sections) like **FA18-BSE-A**
 
 That's all! You will get your datesheet
+
+
+## Contributing
+
+Contributions are always welcome!
+
