@@ -40,7 +40,7 @@ _Step 2_: Enter your Batch along with section (In case your batch has more than 
 That's all! You will get your datesheet
 
 
-## Contributing
+## Contributions
 
 Contributions are always welcome!
 
