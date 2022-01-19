@@ -33,7 +33,7 @@ Following are the main technologies, used in this project
 
 ## How to Use
 
-_Step 1_: Give path to DateSheet(Excel FIle)
+_Step 1_: Give path to DateSheet (Excel FIle)
 
 _Step 2_: Enter your Batch along with section (In case your batch has more than one sections) like **FA18-BSE-A**
 
